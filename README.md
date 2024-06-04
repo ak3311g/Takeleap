@@ -7,9 +7,9 @@ A College List Showing in dropdown and working and on selecting a college it wil
 
 ## Screenshots
 
-![App Screenshot](/src/ss1.png)
-![App Screenshot](/src/ss2.png)
-![App Screenshot](/src/ss3.png)
+![App Screenshot](/public/ss1.png)
+![App Screenshot](/public/ss2.png)
+![App Screenshot](/public/ss3.png)
 
 
 ## Run Locally
